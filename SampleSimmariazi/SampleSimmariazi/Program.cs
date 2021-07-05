@@ -29,6 +29,14 @@ namespace SampleSimmariazi
                 {
                     result = Minus(int.Parse(firstNum), int.Parse(secondNum));
                 }
+                else if (oper == "*")
+                {
+                    result = Multi(int.Parse(firstNum), int.Parse(secondNum));
+                }
+                else if (oper == "/")
+                {
+                    result = Div(int.Parse(firstNum), int.Parse(secondNum));
+                }
 
 
 
@@ -45,6 +53,16 @@ namespace SampleSimmariazi
         public static int Minus(int num1, int num2)
         {
             int result = num1 - num2;
+            return result;
+        }
+        public static int Multi(int num1, int num2)
+        {
+            int result = num1 * num2;
+            return result;
+        }
+        public static int Div(int num1, int num2)
+        {
+            int result = num1 / num2;
             return result;
         }
     }

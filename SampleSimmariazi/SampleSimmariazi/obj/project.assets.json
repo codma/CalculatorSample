@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/SampleSimmariazi.csproj",
+      "projectUniqueName": "/Users/jinjoolee/CalculatorSample/SampleSimmariazi/SampleSimmariazi/SampleSimmariazi.csproj",
       "projectName": "SampleSimmariazi",
-      "projectPath": "/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/SampleSimmariazi.csproj",
+      "projectPath": "/Users/jinjoolee/CalculatorSample/SampleSimmariazi/SampleSimmariazi/SampleSimmariazi.csproj",
       "packagesPath": "/Users/jinjoolee/.nuget/packages/",
-      "outputPath": "/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/obj/",
+      "outputPath": "/Users/jinjoolee/CalculatorSample/SampleSimmariazi/SampleSimmariazi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jinjoolee/.config/NuGet/NuGet.Config"
