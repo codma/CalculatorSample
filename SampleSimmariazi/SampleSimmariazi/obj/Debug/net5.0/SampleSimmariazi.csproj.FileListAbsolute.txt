@@ -1,0 +1,15 @@
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/bin/Debug/net5.0/SampleSimmariazi.deps.json
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/bin/Debug/net5.0/SampleSimmariazi.runtimeconfig.json
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/bin/Debug/net5.0/SampleSimmariazi.runtimeconfig.dev.json
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/bin/Debug/net5.0/SampleSimmariazi.dll
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/bin/Debug/net5.0/ref/SampleSimmariazi.dll
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/bin/Debug/net5.0/SampleSimmariazi.pdb
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/obj/Debug/net5.0/SampleSimmariazi.csproj.AssemblyReference.cache
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/obj/Debug/net5.0/SampleSimmariazi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/obj/Debug/net5.0/SampleSimmariazi.AssemblyInfoInputs.cache
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/obj/Debug/net5.0/SampleSimmariazi.AssemblyInfo.cs
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/obj/Debug/net5.0/SampleSimmariazi.csproj.CoreCompileInputs.cache
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/obj/Debug/net5.0/SampleSimmariazi.dll
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/obj/Debug/net5.0/ref/SampleSimmariazi.dll
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/obj/Debug/net5.0/SampleSimmariazi.pdb
+/Users/jinjoolee/Projects/SampleSimmariazi/SampleSimmariazi/obj/Debug/net5.0/SampleSimmariazi.genruntimeconfig.cache
